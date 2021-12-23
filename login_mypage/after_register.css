@@ -1,0 +1,55 @@
+body {
+	margin: 0 auto;
+	background-color: #f8f8f8;
+}
+
+header {
+	width: 100%;
+	height: 80px;
+	background-color: white;
+	box-shadow: 2px 2px 4px lightgray;
+	text-align: center;
+}
+
+header img {
+	margin-top: 15px;
+	height: 50px;
+}
+
+main {
+	clear: right;
+}
+
+.contents_frame {
+	margin: 0 auto;
+	border: 2px solid lightgray;
+	width: 500px;
+	height: 400px;
+	background-color: white;
+	border-radius: 10px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	box-shadow: 4px 4px 4px lightgray;
+}
+
+.contents {
+	margin-top: 70px;
+}
+
+p, .modoru {
+	text-align: center;
+}
+
+footer {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	height: 40px;
+	background-color: white;
+	color: gray;
+	text-align: center;
+	line-height: 40px;
+	font-size: 13px;
+	border-top: 2px solid lightgray;
+}
