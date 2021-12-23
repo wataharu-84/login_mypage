@@ -8,6 +8,8 @@
 - マイページ編集機能
 
 # Requirement
+- PHP 7.3.31
+- MySQL
 
 # Author
 - 作成者：wataharu-84
